@@ -1,0 +1,18 @@
+body{
+
+    background-color: rgb(5, 5, 56);
+}
+h1{
+
+    color: rgb(160, 244, 255);
+    text-shadow: 3px 4px white;
+    text-align: center;
+}
+p{
+    color:yellow;
+    letter-spacing: 5px;
+    margin: auto 50px;
+}
+img{
+    margin: 15px;
+}
