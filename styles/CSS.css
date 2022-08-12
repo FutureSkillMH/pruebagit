@@ -5,7 +5,7 @@ body{
 h1{
 
     color: rgb(160, 244, 255);
-    text-shadow: 3px 4px white;
+    text-shadow: 3px 4px 3px white;
     text-align: center;
 }
 p{
@@ -15,4 +15,9 @@ p{
 }
 img{
     margin: 15px;
+}
+.orden {
+
+    text-align:justify;
+    padding:20px 18px;
 }
