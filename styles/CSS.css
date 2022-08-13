@@ -10,8 +10,8 @@ h1{
 }
 p{
     color:yellow;
-    letter-spacing: 5px;
-    margin: auto 50px;
+    letter-spacing: .5px;
+     margin: auto; /* 50px */
 }
 img{
     margin: 15px;
@@ -21,5 +21,9 @@ img{
 .orden {
 
     text-align:justify;
-    padding:20px 18px;
+    padding:20px auto;
+}
+.image {
+
+    text-align:center;
 }
